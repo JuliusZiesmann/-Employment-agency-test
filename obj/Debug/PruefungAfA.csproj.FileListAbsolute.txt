@@ -1,0 +1,13 @@
+C:\C.Sharp\PruefungAfA\PruefungAfA\bin\Debug\PruefungAfA.exe.config
+C:\C.Sharp\PruefungAfA\PruefungAfA\bin\Debug\PruefungAfA.exe
+C:\C.Sharp\PruefungAfA\PruefungAfA\bin\Debug\PruefungAfA.pdb
+C:\C.Sharp\PruefungAfA\PruefungAfA\obj\Debug\PruefungAfA.csproj.AssemblyReference.cache
+C:\C.Sharp\PruefungAfA\PruefungAfA\obj\Debug\PruefungAfA.csproj.SuggestedBindingRedirects.cache
+C:\C.Sharp\PruefungAfA\PruefungAfA\obj\Debug\PruefungAfA.Form1.resources
+C:\C.Sharp\PruefungAfA\PruefungAfA\obj\Debug\PruefungAfA.Properties.Resources.resources
+C:\C.Sharp\PruefungAfA\PruefungAfA\obj\Debug\PruefungAfA.csproj.GenerateResource.cache
+C:\C.Sharp\PruefungAfA\PruefungAfA\obj\Debug\PruefungAfA.csproj.CoreCompileInputs.cache
+C:\C.Sharp\PruefungAfA\PruefungAfA\obj\Debug\PruefungAfA.exe
+C:\C.Sharp\PruefungAfA\PruefungAfA\obj\Debug\PruefungAfA.pdb
+C:\C.Sharp\PruefungAfA\PruefungAfA\obj\Debug\PruefungAfA.Form2.resources
+C:\C.Sharp\PruefungAfA\PruefungAfA\obj\Debug\PruefungAfA.Form3.resources
